@@ -33,5 +33,4 @@ const yelp = {
   }
 };
 
-
 export default yelp;
